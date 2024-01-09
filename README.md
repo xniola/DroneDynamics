@@ -8,4 +8,5 @@ To carry out the project, we trained two types of neural networks: an LSMT netwo
 An initial dataset of a quadrotor with 12 different trajectories was provided for network training; for each trajectory there is a table file containing 60,000 rows and 16 columns (sampling time is 0.5 ms for a total time period of 30 seconds). 
 The triad integral to the quadrotor is placed as in the following figure with the axes and motors numbered counterclockwise:
  
-![alt text](https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png)
+<img src="https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png" width="300" height="200">
+
