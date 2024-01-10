@@ -1,7 +1,7 @@
 # Introduction
 
 The project aims to identify the flight dynamics of a drone, and possibly use the acquired information for the detection of an engine failure, by training a neural network using a Dataset generated from a Simulink model.
-To carry out the project, we trained two types of neural networks: an LSMT network on Python and a NARX network from Matlab's Neural Network Toolbox.
+To carry out the project, two models were used: a GRU network and a Linear Regression model.
 
 # Dataset
 
