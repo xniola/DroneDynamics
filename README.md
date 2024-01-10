@@ -38,4 +38,19 @@ A Gated Recurrent Unit (GRU) is a type of recurrent neural network (RNN) archite
 Linear Regression is a simple and widely used statistical method for modeling the relationship between a dependent variable and one or more independent variables. The basic idea is to find the best-fitting linear relationship (a line) between the independent variables and the dependent variable.
 
 # Results
+The results obtained from the most satisfactory model, linear regression, are proposed below. For each motor of the quadcopter, the angular velocity was predicted:
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png" width="500" height="400">
+</div>
 
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png" width="500" height="400">
+</div>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png" width="500" height="400">
+</div>
+
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="https://github.com/xniola/DroneDynamics/blob/main/DronePhoto.png" width="500" height="400">
+</div>
